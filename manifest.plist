@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hold1998/aokangwsc/master/aipaikeNew%E4%BC%81%E4%B8%9A%E7%89%88.ipa</string>
+					<string>https://mb.aipaike.com/update_files/wscios-3.2.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hold1998/aokangwsc/master/ioc-57.png</string>
+					<string>https://mb.aipaike.com/update_files/ioc-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hold1998/aokangwsc/master/ioc-512.png</string>
+					<string>https://mb.aipaike.com/update_files/ioc-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
